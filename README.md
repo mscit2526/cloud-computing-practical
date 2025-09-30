@@ -11,7 +11,7 @@ Link: https://old-releases.ubuntu.com/releases/22.04.1/ubuntu-22.04.1-desktop-am
 ## VMware Workstation
 Link: https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion
 ## AWS Academy Student Portal
-### Create an account and enroll for the following courses to access the cloud service\
+### Create an account and enroll for the following courses to access the cloud service
 #### AWS Academy Learner Lab [131065] - Amazon S3
 #### AWS Academy Cloud Foundations [130837] - Amazon EC2
 Link: https://awsacademy.instructure.com/login/canvas
