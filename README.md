@@ -16,6 +16,6 @@ Ask your educator to enroll yourself for the following courses to access the clo
 * AWS Academy Cloud Foundations [130837] - Amazon EC2 <br><br>
 Link: https://awsacademy.instructure.com/login/canvas
 ## Microsoft Learn Portal
-Search the following module, create a sandbox account and perform the steps as given in the module. <br>
+Create a sandbox account and perform the steps as given in the module. <br>
 * Host a web application with Azure App Service<br><br>
 Link: https://learn.microsoft.com/en-us/training/modules/host-a-web-app-with-azure-app-service/
