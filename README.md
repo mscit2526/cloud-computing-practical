@@ -5,11 +5,11 @@ Link: https://downloads.mysql.com/archives/get/p/23/file/mysql-essential-5.0.22-
 ## MySQL Java Connector
 Link: https://downloads.mysql.com/archives/get/p/3/file/mysql-connector-java-5.1.10.zip
 ## Netbeans IDE
-Link: https://www.filehorse.com/download/file/hNJHSBHAshlM6p8Npq3rJQgQ0OTAEySgTbOH-l_tbEfZPFruBTilnwRh0a-T5MpPRy32mg3dT5HFytQkxtQR7YBJX7Zi5tSwobUnDcQ0dA4/
+Link: https://drive.google.com/file/d/1MiUCh7RA932X0RrTiSMZGAp6XaLT8wES/view?usp=drive_link
 ## Ubuntu Disk Image
 Link: https://old-releases.ubuntu.com/releases/22.04.1/ubuntu-22.04.1-desktop-amd64.iso
 ## VMware Workstation
-Link: https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion
+Link: https://drive.google.com/file/d/1tejyZgLts1Qmasobg8nO1WcMTk3iqDuW/view?usp=drive_link
 ## AWS Academy Student Portal
 ### Create an account and enroll for the following courses to access the cloud service
 #### AWS Academy Learner Lab [131065] - Amazon S3
