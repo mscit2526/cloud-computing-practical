@@ -1,5 +1,5 @@
 ## Java JDK
-Link: https://www.oracle.com/webapps/redirect/signon?nexturl=https://download.oracle.com/otn/java/jdk/8u221-b11/230deb18db3e4014bb8e3e8324f81b43/jdk-8u221-windows-x64.exe
+Link: https://drive.google.com/file/d/1iVuCBSORIdXDDiOg6l9cqITTP_kEQlyr/view?usp=drive_link
 ## MySQL
 Link: https://downloads.mysql.com/archives/get/p/23/file/mysql-essential-5.0.22-win32.msi
 ## MySQL Java Connector
