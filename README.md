@@ -16,6 +16,6 @@ Ask to educator to enroll yourself for the following courses to access the cloud
 * AWS Academy Cloud Foundations [130837] - Amazon EC2 <br><br>
 Link: https://awsacademy.instructure.com/login/canvas
 ## Microsoft Learn Portal
-Search the following module, create a sandbox account and perform the steps as given <br><br>
-* Host a web application with Azure App Service - MicroSoft Azure <br><br>
+Search the following module, create a sandbox account and perform the steps as given <br>
+* Host a web application with Azure App Service<br><br>
 Link: https://learn.microsoft.com/en-us/training/modules/host-a-web-app-with-azure-app-service/
