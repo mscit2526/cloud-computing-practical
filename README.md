@@ -17,5 +17,5 @@ Link: https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion
 Link: https://awsacademy.instructure.com/login/canvas
 ## Microsoft Learn Portal
 ### Search the following module, create a sandbox account and perform the steps as given
-#### Host a web application with Azure App Service - MS Azure
+#### Host a web application with Azure App Service - MicroSoft Azure
 Link: https://learn.microsoft.com/en-us/training/browse/
