@@ -11,11 +11,11 @@ Link: https://old-releases.ubuntu.com/releases/22.04.1/ubuntu-22.04.1-desktop-am
 ## VMware Workstation
 Link: https://drive.google.com/file/d/1tejyZgLts1Qmasobg8nO1WcMTk3iqDuW/view?usp=drive_link
 ## AWS Academy Student Portal
-Ask to educator to enroll yourself for the following courses to access the cloud service and create an account to login <br>
-AWS Academy Learner Lab [131065] - Amazon S3 <br>
-AWS Academy Cloud Foundations [130837] - Amazon EC2 <br>
+Ask to educator to enroll yourself for the following courses to access the cloud service and create an account to login <br><br>
+* AWS Academy Learner Lab [131065] - Amazon S3 <br>
+* AWS Academy Cloud Foundations [130837] - Amazon EC2 <br><br>
 Link: https://awsacademy.instructure.com/login/canvas
 ## Microsoft Learn Portal
-Search the following module, create a sandbox account and perform the steps as given <br>
-Host a web application with Azure App Service - MicroSoft Azure <br>
+Search the following module, create a sandbox account and perform the steps as given <br><br>
+* Host a web application with Azure App Service - MicroSoft Azure <br><br>
 Link: https://learn.microsoft.com/en-us/training/modules/host-a-web-app-with-azure-app-service/
